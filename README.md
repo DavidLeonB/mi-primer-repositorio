@@ -1,2 +1,2 @@
-# Mi primer README
+# Actulizar README
 Es el primer repositorio por aprendizaje
